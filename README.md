@@ -1,2 +1,2 @@
-# Programaci-n-L-gica-y-Funcional
+# Programacion-Logica-y-Funcional
 Ejercicio Práctico
